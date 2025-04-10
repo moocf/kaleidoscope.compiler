@@ -42,7 +42,7 @@ symbol:     otherwise
 see `main.l` for the scanner code. code can be compiled with `make`
 and `lex.yy.c` is the generated **C code** by [flex].
 
-
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/kaleidoscope.compiler)
 
 [kaleidoscope]: https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/LangImpl01.html
 [flex]: https://github.com/westes/flex
